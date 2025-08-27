@@ -1,0 +1,5 @@
+python-dotenv
+Flask
+plotly
+adafruit-circuitpython-si7021
+adafruit-circuitpython-ahtx0
